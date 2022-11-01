@@ -1,5 +1,5 @@
-<p class="center">Center this text!</p>
-
+<B>INTRODUCTION TO BOTS</B>
+<CODE>
 --> Bots are special Telegram accounts designed to handle messages automatically. 
 
 --> Users can interact with bots by sending them command messages in private or group chats.
@@ -8,3 +8,4 @@
 
 => Telegraf is a library that makes it simple for you to develop your own Telegram bots using JavaScript.
 
+</CODE>
