@@ -1,4 +1,5 @@
-<center>Center this text!</center>
+<p class="center">Center this text!</p>
+
 --> Bots are special Telegram accounts designed to handle messages automatically. 
 
 --> Users can interact with bots by sending them command messages in private or group chats.
