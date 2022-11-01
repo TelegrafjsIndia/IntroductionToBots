@@ -1,4 +1,4 @@
-<B>INTRODUCTION TO BOTS class="center"</B>
+<CENTRE><B>INTRODUCTION TO BOTS</B></CENTRE>
 --> Bots are special Telegram accounts designed to handle messages automatically. 
 
 --> Users can interact with bots by sending them command messages in private or group chats.
