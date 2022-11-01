@@ -8,6 +8,6 @@
 
 --> These accounts serve as an interface for code running somewhere on your server.
 
-=> <I>Telegraf is a library that makes it simple for you to develop your own Telegram bots using JavaScript.</I>
+=> <U>Telegraf is a library that makes it simple for you to develop your own Telegram bots using JavaScript.</U>
 
 </CODE>
